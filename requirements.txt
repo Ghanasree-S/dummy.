@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pydantic
+motor
+pandas
+numpy
+scikit-learn
+python-multipart
+paho-mqtt
+pymongo
+pytz
